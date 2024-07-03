@@ -121,3 +121,30 @@ SESSION_SECRET=your_session_secret
 ## Author
 
 ### Karuna Sagar
+
+
+### Home ![Home](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/c9e5cc54-d263-4ee3-9164-18a7fe7d2993)
+
+
+### Registration ![registration](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/ab930510-e02b-43c5-baff-1bda6ced00db)
+
+### Login ![login](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/593e1d3e-88bd-4ce4-9113-5132590f72d3)
+
+### Add Post form 
+![post](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/a28bba91-b3f7-438a-8ed4-b691bd95f42f)
+### Post Details 
+![post_details](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/ff606173-cae5-4be4-8267-be2a2bbfd13b)
+###  Post Detils 
+![post_details_1](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/32314334-bbb3-4979-8196-0762b3590ed7)
+### Profile 
+![profile](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/9229d43a-fa51-475b-9559-ca4569acf7f0)
+### Add New Post Form
+  
+![addnewpostForm](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/b9f06321-87d3-4f6f-ac5f-ebaca09982b7)
+
+
+
+
+
+
+
