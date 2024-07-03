@@ -130,7 +130,7 @@ SESSION_SECRET=your_session_secret
 
 ### Login ![login](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/593e1d3e-88bd-4ce4-9113-5132590f72d3)
 
-### Add Post form 
+### All Posts
 ![post](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/a28bba91-b3f7-438a-8ed4-b691bd95f42f)
 ### Post Details 
 ![post_details](https://github.com/karuna-sagar/Blogging_Wbsite/assets/128089073/ff606173-cae5-4be4-8267-be2a2bbfd13b)
