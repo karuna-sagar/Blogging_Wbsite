@@ -116,7 +116,7 @@ SESSION_SECRET=your_session_secret
 - \*\*Express-Session
 - \*\*Contributing
 
-### Feel free to contribute to this project by submitting pull requests or opening issues. For major changes, please open an issue first to discuss # what you would like to change.
+### Feel free to contribute to this project by submitting pull requests or opening issues. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
 
